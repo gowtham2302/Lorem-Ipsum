@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .shadow-custom {
+    box-shadow: 8px 8px 0px 1px rgba(22, 22, 22, 1);
+  }
+  .shadow-custom-1 {
+    box-shadow: 0px 8px 2px 0px rgba(0, 0, 0, 1);
+  }
+  .shadow-custom-2 {
+    box-shadow: 8px 8px 0px 1px rgba(22, 22, 22, 1);
+  }
+}
+
+body{
+  overflow-x: hidden;
+}
