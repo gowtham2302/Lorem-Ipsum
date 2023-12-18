@@ -1,0 +1,55 @@
+<svg width="357" height="100" viewBox="0 0 357 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="92.0022" height="99.0793" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 264.998 99.0793)" fill="url(#pattern0)"/>
+<g clip-path="url(#clip0_221_1599)">
+<rect x="204.449" y="37.7445" width="27.522" height="27.0555" fill="url(#pattern1)"/>
+</g>
+<g clip-path="url(#clip1_221_1599)">
+<rect x="153.337" y="37.7445" width="27.522" height="27.0555" fill="url(#pattern2)"/>
+</g>
+<g clip-path="url(#clip2_221_1599)">
+<rect x="51.1123" y="37.7445" width="27.522" height="27.0555" fill="url(#pattern3)"/>
+</g>
+<g clip-path="url(#clip3_221_1599)">
+<rect x="102.225" y="37.7445" width="27.522" height="27.0555" fill="url(#pattern4)"/>
+</g>
+<g clip-path="url(#clip4_221_1599)">
+<rect y="37.7445" width="27.522" height="27.0555" fill="url(#pattern5)"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_221_1599" transform="scale(0.00763359 0.0070922)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_221_1599" transform="scale(0.00444444 0.00454545)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_221_1599" transform="scale(0.00444444 0.00454545)"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_221_1599" transform="scale(0.00444444 0.00454545)"/>
+</pattern>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_221_1599" transform="scale(0.00444444 0.00454545)"/>
+</pattern>
+<pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_221_1599" transform="scale(0.00444444 0.00454545)"/>
+</pattern>
+<clipPath id="clip0_221_1599">
+<rect width="27.522" height="27.0555" fill="white" transform="translate(204.449 37.7445)"/>
+</clipPath>
+<clipPath id="clip1_221_1599">
+<rect width="27.522" height="27.0555" fill="white" transform="translate(153.337 37.7445)"/>
+</clipPath>
+<clipPath id="clip2_221_1599">
+<rect width="27.522" height="27.0555" fill="white" transform="translate(51.1123 37.7445)"/>
+</clipPath>
+<clipPath id="clip3_221_1599">
+<rect width="27.522" height="27.0555" fill="white" transform="translate(102.225 37.7445)"/>
+</clipPath>
+<clipPath id="clip4_221_1599">
+<rect width="27.522" height="27.0555" fill="white" transform="translate(0 37.7445)"/>
+</clipPath>
+<image id="image0_221_1599" width="131" height="141" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIMAAACNCAMAAACjSTkkAAAAAXNSR0IB2cksfwAAAVxQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////XbYEwAAAAHR0Uk5TAAEKBx/i5+unIvr/uQN7j46d/eCMkHwqBd37ZnEp4wszOdw4JvC70jcy7RmLx+hYCAJ/foFh2N7qZWBcYl5D2w42R0ZAwqsbVmPOUvFfEWtN0e71BIqtqdVBNfcu/vwGHSQl0IMeIxwY4WpwhG1pKK/TwFVxEkpeAAAB00lEQVR4nO3b11LCUABF0YiiQsQCIkWUIopdAUFFVGwgiL037GKv/z/jA8VhEhITc5MwnP0B96y8pUwoiqcajZhq+Y4VVJ22XngNjZIadHpaRE0wwAADDFIbDM0trYzajGIMpnbmSeYOC7/BahMz9/fsncobaAcMMMBQqYauboUMTpe7kIcwgTYXtnq8JQZXL+lllox9JQa3AgSa9sEAAwwwwAADDDD8y9Av6rlaWsPAoPKGIbaXDsMjhA2jY0XAuJ9iL0DYQHcHA7kmvGUI5A2/uWGAAQYYhBpC4UkbR54pGQx+K2fUtAwGviIqMMyowBCFAQaVGWZVYJibV94QW1hcYrS8IquBvTgMMMAAAwz5EqvJKKNQSlbDWlrMnLSGdckIlX0PAwMMajPI8bxpjW1wpdmUwbC1nd7halcGQ1C6DdEGNbyPggEGGKrU4Inkb4STlj0qsX8QZ3R4RJigPS5ertNAnZwSnmNNfd+7YYABBhhggAEGGCrRcGay6/Odk17OFJaMqRLDxeXVtS7XDWnD7d19fipLlenhkbChQv4JggEGGKrU8MRv8EcdjJ5fMmLWwq/Moxxv7/wG1qrwP3cYYICBqOFDUkM25RPc59e3kIkf2xeNKG4S8ZAAAAAASUVORK5CYII="/>
+<image id="image1_221_1599" width="225" height="220" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADcAQMAAAC8mVRKAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAXElEQVR4nO3Yuw0AIAgAUTdw/y3dAAsKf52BBPGufXSaGCmFyDXRGuqoMncMoDZaZQv10N1kOQgUfUmPq66hKIqi6Bca83VG0VuN+XtKqDG3ARl1DETabqVUIrM6IxtriWGgM80AAAAASUVORK5CYII="/>
+</defs>
+</svg>
